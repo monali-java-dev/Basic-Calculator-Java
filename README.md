@@ -19,8 +19,6 @@ This is a simple Java console-based calculator that performs basic arithmetic op
 2. Run the Java file
 3. Enter numbers and choose operation
 
-## 📸 Output
-(Add screenshot here)
 
 ## 👩‍💻 Author
 Monali Palve
